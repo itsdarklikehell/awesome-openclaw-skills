@@ -19,6 +19,15 @@
 [![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-clawdbot-skills?label=Last%20update&style=flat-square)](https://github.com/VoltAgent/awesome-clawdbot-skills/pulls?q=is%3Apr+is%3Amerged+sort%3Aupdated-desc)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
 
+![Gource Visualization](https://github.com/itsdarklikehell/awesome-openclaw-skills/raw/main/gource.mp4?raw=true)
+
+<details>
+<summary><strong>▶ Repository activity visualization</strong></summary>
+
+Watch this repository's commit history visualized with Gource — contributors adding and modifying files over time.
+
+</details>
+
 </div>
 
 
