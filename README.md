@@ -38,6 +38,13 @@ Watch this repository's commit history visualized with Gource — contributors a
 
 # Awesome OpenClaw Skills
 
+[![CI](https://github.com/itsdarklikehell/awesome-openclaw-skills/actions/workflows/ci.yml/badge.svg)](https://github.com/itsdarklikehell/awesome-openclaw-skills/actions/workflows/ci.yml)
+[![Gource](https://github.com/itsdarklikehell/awesome-openclaw-skills/actions/workflows/gource.yml/badge.svg)](https://github.com/itsdarklikehell/awesome-openclaw-skills/actions/workflows/gource.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub issues](https://img.shields.io/github/issues/itsdarklikehell/awesome-openclaw-skills)](https://github.com/itsdarklikehell/awesome-openclaw-skills/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/itsdarklikehell/awesome-openclaw-skills)](https://github.com/itsdarklikehell/awesome-openclaw-skills/pulls)
+
+
 OpenClaw is a locally-running AI assistant that operates directly on your machine. Skills extend its capabilities, allowing it to interact with external services, automate workflows, and perform specialized tasks. This collection helps you discover and install the right skills for your needs. It can also serve as a source of inspiration for OpenClaw use cases.
 
 Skills in this list are sourced from ClawHub (OpenClaw's public skills registry) and categorized for easier discovery.
